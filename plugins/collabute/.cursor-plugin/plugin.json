@@ -1,7 +1,7 @@
 {
   "name": "collabute",
   "displayName": "Collabute",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect Cursor to your Collabute workspace for meetings, memory, Linear, Slack, and Vercel context",
   "author": {
     "name": "Collabute",

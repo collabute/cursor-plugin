@@ -10,7 +10,18 @@ Built from the [Cursor plugin template](https://github.com/cursor/plugin-templat
 | --- | --- |
 | [`plugins/collabute`](./plugins/collabute) | MCP (`https://api.collabute.ai/api/mcp`) + `collabute-mcp` skill |
 
-Auth is OAuth. The plugin does not ship API keys or PATs.
+Auth is OAuth. The plugin does not ship API keys or PATs. Installing the plugin from Cursor is free. Using MCP requires a Collabute account.
+
+## Legal
+
+Marketplace users can review Collabute’s terms and privacy policy here:
+
+- [Terms of Service](https://collabute.com/terms-and-conditions)
+- [Privacy Policy](https://collabute.com/privacy-policy)
+- [EULA](https://collabute.com/eula)
+- DPA and sub-processors: legal@collabute.com
+- Plugin-specific data disclosures: [LEGAL.md](./LEGAL.md)
+- Security reporting: [SECURITY.md](./SECURITY.md)
 
 ## Local development
 
@@ -42,4 +53,4 @@ This repository is the public source for the Collabute Cursor plugin.
 
 ## License
 
-MIT
+The plugin source in this repository is MIT. Use of Collabute MCP and Customer Data is governed by the [Terms of Service](https://collabute.com/terms-and-conditions) and [Privacy Policy](https://collabute.com/privacy-policy).
