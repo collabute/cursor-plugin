@@ -6,9 +6,9 @@
   "author": {
     "name": "Collabute",
     "email": "team@collabute.com",
-    "url": "https://collabute.com"
+    "url": "https://collabute.ai"
   },
-  "homepage": "https://collabute.com",
+  "homepage": "https://collabute.ai",
   "repository": "https://github.com/collabute/cursor-plugin",
   "license": "MIT",
   "keywords": [

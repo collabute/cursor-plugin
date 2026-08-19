@@ -16,4 +16,4 @@ Please include:
 
 Do not file public GitHub issues for unpatched vulnerabilities.
 
-Collabute uses TLS in transit and encrypts OAuth tokens and integration credentials at rest, as described in the [Privacy Policy](https://collabute.com/privacy-policy) and [Terms of Service](https://collabute.com/terms-and-conditions).
+Collabute uses TLS in transit and encrypts OAuth tokens and integration credentials at rest, as described in the [Privacy Policy](https://collabute.ai/privacy-policy) and [Terms of Service](https://collabute.ai/terms-and-conditions).

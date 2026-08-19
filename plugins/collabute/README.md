@@ -36,16 +36,16 @@ Collabute does not use Customer Data to train AI models. Customer Data remains t
 
 ## Legal
 
-- [Terms of Service](https://collabute.com/terms-and-conditions)
-- [Privacy Policy](https://collabute.com/privacy-policy)
-- [EULA](https://collabute.com/eula)
+- [Terms of Service](https://collabute.ai/terms-and-conditions)
+- [Privacy Policy](https://collabute.ai/privacy-policy)
+- [EULA](https://collabute.ai/eula)
 - DPA and sub-processors: legal@collabute.com
 - [LEGAL.md](../../LEGAL.md)
 - [SECURITY.md](../../SECURITY.md)
 
 ## Support
 
-- Docs: https://collabute.com
+- Docs: https://collabute.ai
 - Issues: https://github.com/collabute/cursor-plugin/issues
 - Support: team@collabute.com
 - Privacy: privacy@collabute.com

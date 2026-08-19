@@ -1,6 +1,6 @@
 # Collabute Cursor plugin
 
-Official Cursor plugin for [Collabute](https://collabute.com). It packages the remote Collabute MCP server and the `collabute-mcp` skill so Cursor can use meetings, memory, Linear, Slack, and Vercel context from your workspace.
+Official Cursor plugin for [Collabute](https://collabute.ai). It packages the remote Collabute MCP server and the `collabute-mcp` skill so Cursor can use meetings, memory, Linear, Slack, and Vercel context from your workspace.
 
 Built from the [Cursor plugin template](https://github.com/cursor/plugin-template).
 
@@ -16,9 +16,9 @@ Auth is OAuth. The plugin does not ship API keys or PATs. Installing the plugin 
 
 Marketplace users can review Collabute’s terms and privacy policy here:
 
-- [Terms of Service](https://collabute.com/terms-and-conditions)
-- [Privacy Policy](https://collabute.com/privacy-policy)
-- [EULA](https://collabute.com/eula)
+- [Terms of Service](https://collabute.ai/terms-and-conditions)
+- [Privacy Policy](https://collabute.ai/privacy-policy)
+- [EULA](https://collabute.ai/eula)
 - DPA and sub-processors: legal@collabute.com
 - Plugin-specific data disclosures: [LEGAL.md](./LEGAL.md)
 - Security reporting: [SECURITY.md](./SECURITY.md)
@@ -53,4 +53,4 @@ This repository is the public source for the Collabute Cursor plugin.
 
 ## License
 
-The plugin source in this repository is MIT. Use of Collabute MCP and Customer Data is governed by the [Terms of Service](https://collabute.com/terms-and-conditions) and [Privacy Policy](https://collabute.com/privacy-policy).
+The plugin source in this repository is MIT. Use of Collabute MCP and Customer Data is governed by the [Terms of Service](https://collabute.ai/terms-and-conditions) and [Privacy Policy](https://collabute.ai/privacy-policy).

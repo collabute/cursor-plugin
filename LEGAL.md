@@ -8,9 +8,9 @@ These summaries follow Collabute’s published legal documents. If anything here
 
 | Document | URL |
 | --- | --- |
-| Terms of Service | https://collabute.com/terms-and-conditions |
-| Privacy Policy | https://collabute.com/privacy-policy |
-| End User License Agreement | https://collabute.com/eula |
+| Terms of Service | https://collabute.ai/terms-and-conditions |
+| Privacy Policy | https://collabute.ai/privacy-policy |
+| End User License Agreement | https://collabute.ai/eula |
 | Data Processing Addendum and sub-processors | Available on request at legal@collabute.com |
 
 Publisher contact:
@@ -40,7 +40,7 @@ The plugin does not ship API keys or personal access tokens. Cursor starts OAuth
 
 ## How Collabute uses that data
 
-From the [Terms of Service](https://collabute.com/terms-and-conditions) and [Privacy Policy](https://collabute.com/privacy-policy):
+From the [Terms of Service](https://collabute.ai/terms-and-conditions) and [Privacy Policy](https://collabute.ai/privacy-policy):
 
 - **Customer Data stays yours.** Content submitted through the Services, including data pulled from connected integrations, remains Customer Data. Collabute does not claim ownership of it.
 - **License is limited to providing the Services.** Customer grants Collabute a license to process Customer Data only as needed to provide the Services during the subscription.
