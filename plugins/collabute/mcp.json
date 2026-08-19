@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "collabute": {
+      "url": "https://api.collabute.ai/api/mcp",
+      "transport": "http"
+    }
+  }
+}

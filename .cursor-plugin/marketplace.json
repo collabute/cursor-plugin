@@ -1,0 +1,18 @@
+{
+  "name": "collabute",
+  "owner": {
+    "name": "Collabute",
+    "email": "team@collabute.com"
+  },
+  "metadata": {
+    "description": "Official Collabute Cursor plugin for meetings, memory, and connected workspace tools",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "collabute",
+      "source": "./plugins/collabute",
+      "description": "Connect Cursor to Collabute MCP for meetings, memory, Linear, Slack, and Vercel context"
+    }
+  ]
+}

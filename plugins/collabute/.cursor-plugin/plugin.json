@@ -1,0 +1,25 @@
+{
+  "name": "collabute",
+  "displayName": "Collabute",
+  "version": "0.1.0",
+  "description": "Connect Cursor to your Collabute workspace for meetings, memory, Linear, Slack, and Vercel context",
+  "author": {
+    "name": "Collabute",
+    "email": "team@collabute.com",
+    "url": "https://collabute.com"
+  },
+  "homepage": "https://collabute.com",
+  "repository": "https://github.com/collabute/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "collabute",
+    "mcp",
+    "meetings",
+    "memory",
+    "linear",
+    "slack",
+    "vercel",
+    "transcription"
+  ],
+  "logo": "assets/logo.svg"
+}
